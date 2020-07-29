@@ -15,4 +15,4 @@ print(message)
 
 message = 123.34
 print(message)
-#输出：123.34
+#输出：123.34 
